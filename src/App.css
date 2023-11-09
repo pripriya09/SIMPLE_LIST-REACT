@@ -1,0 +1,46 @@
+
+button{
+  background-color: rgba(169, 23, 101, 0.63);
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+}
+button:hover{
+color:#fff;
+background-color:rgb(111, 9, 111) ;
+}
+input{
+ 
+    
+    width: 200px;
+    height: 30px;
+    font-size: 18px;
+    margin: 30px;
+    border: 3px solid rgba(169, 23, 101, 0.63) ;
+  
+  
+}
+
+div{
+  margin: 100px auto;
+  min-width: 400px;
+  max-width: fit-content;
+  height: 400px;
+  background-color: rgb(204, 62, 166);
+  border-radius: 30px;
+ 
+}
+ ul li{
+  font-size: 20px;
+
+  color:#fff;
+  font-weight: 300;
+ 
+}
+ ul li:hover{
+
+  color: purple;
+
+
+}
+
